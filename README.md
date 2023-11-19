@@ -1,2 +1,3 @@
 # GitExample
-This is an exmaple repo for generating git.
+
+This is my first R git project folder.
